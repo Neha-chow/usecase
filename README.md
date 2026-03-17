@@ -1,0 +1,2 @@
+# usecase
+for git practice
